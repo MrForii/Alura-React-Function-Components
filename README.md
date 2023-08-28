@@ -1,3 +1,8 @@
+# Proyecto React Function Components
+
+En el desarrollo de este proyecto se creo un formulario con las herramientas que proporciona React. Implementamos el uso de useState y la libreria Material UI.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
